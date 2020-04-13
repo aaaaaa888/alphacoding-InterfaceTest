@@ -1,0 +1,73 @@
+{
+  "uid" : "2d65acfbf95c6b65",
+  "name" : "test_courseList",
+  "fullName" : "testcases.course.test_courses_list.Test_courseList#test_courseList",
+  "historyId" : "e08474f482fdc8f75f418d965bcb38e0",
+  "time" : {
+    "start" : 1586759545310,
+    "stop" : 1586759545365,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "session_fixture",
+    "time" : {
+      "start" : 1586759539932,
+      "stop" : 1586759540631,
+      "duration" : 699
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取课程列表"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.course"
+  }, {
+    "name" : "suite",
+    "value" : "test_courses_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_courseList"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ONN50GDF"
+  }, {
+    "name" : "thread",
+    "value" : "16732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.course.test_courses_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d65acfbf95c6b65.json",
+  "parameterValues" : [ ]
+}

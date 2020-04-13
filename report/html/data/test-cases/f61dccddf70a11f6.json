@@ -1,0 +1,73 @@
+{
+  "uid" : "f61dccddf70a11f6",
+  "name" : "test_recentLesson",
+  "fullName" : "testcases.course.test_recentLesson.Test_recentLesson#test_recentLesson",
+  "historyId" : "9ebbac015a7f749a46261024f7a78b9b",
+  "time" : {
+    "start" : 1586759547448,
+    "stop" : 1586759548641,
+    "duration" : 1193
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "session_fixture",
+    "time" : {
+      "start" : 1586759539932,
+      "stop" : 1586759540631,
+      "duration" : 699
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取最近学习⼩节"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.course"
+  }, {
+    "name" : "suite",
+    "value" : "test_recentLesson"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_recentLesson"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ONN50GDF"
+  }, {
+    "name" : "thread",
+    "value" : "16732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.course.test_recentLesson"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f61dccddf70a11f6.json",
+  "parameterValues" : [ ]
+}

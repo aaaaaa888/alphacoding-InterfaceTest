@@ -1,0 +1,309 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "Test_login",
+        "children" : [ {
+          "name" : "test_login_success",
+          "uid" : "8cac80dedeb2bbc8",
+          "parentUid" : "59296497c1e8daaee9247b3d3248c9ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759540635,
+            "stop" : 1586759542058,
+            "duration" : 1423
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_login_fail1",
+          "uid" : "d947e217f05543ed",
+          "parentUid" : "59296497c1e8daaee9247b3d3248c9ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759542069,
+            "stop" : 1586759542556,
+            "duration" : 487
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_login_fail2",
+          "uid" : "a441879478c582eb",
+          "parentUid" : "59296497c1e8daaee9247b3d3248c9ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759542559,
+            "stop" : 1586759543273,
+            "duration" : 714
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_login_fail3",
+          "uid" : "160399089edd5ac3",
+          "parentUid" : "59296497c1e8daaee9247b3d3248c9ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759543283,
+            "stop" : 1586759543537,
+            "duration" : 254
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "59296497c1e8daaee9247b3d3248c9ff"
+      } ],
+      "uid" : "ab70c067fdfc04844e6dad4d931d9fae"
+    } ],
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
+  }, {
+    "name" : "testcases.course",
+    "children" : [ {
+      "name" : "test_chapterDetail",
+      "children" : [ {
+        "name" : "Test_chaperDetail",
+        "children" : [ {
+          "name" : "test_chaperDetail",
+          "uid" : "52a96c37647dccbf",
+          "parentUid" : "2705265e8c6cd670d38e947fc3b199b5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759543542,
+            "stop" : 1586759543954,
+            "duration" : 412
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2705265e8c6cd670d38e947fc3b199b5"
+      } ],
+      "uid" : "f74c38085e9b9e06d08e8333600a155f"
+    }, {
+      "name" : "test_courseChapters",
+      "children" : [ {
+        "name" : "Test_courseChapters",
+        "children" : [ {
+          "name" : "test_courseChapters",
+          "uid" : "7f6e83d8fcb4b5ef",
+          "parentUid" : "4019502da1415132b8c96fd84b00cefd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759543966,
+            "stop" : 1586759544704,
+            "duration" : 738
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4019502da1415132b8c96fd84b00cefd"
+      } ],
+      "uid" : "62d994986793ed786fac579481166f7f"
+    }, {
+      "name" : "test_courseDetail",
+      "children" : [ {
+        "name" : "Test_courseDetail",
+        "children" : [ {
+          "name" : "test_courseDetail",
+          "uid" : "f14d74bedc29d32d",
+          "parentUid" : "6fd60c8077c789f04a3b02bb3f0bffc7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759544716,
+            "stop" : 1586759545054,
+            "duration" : 338
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6fd60c8077c789f04a3b02bb3f0bffc7"
+      } ],
+      "uid" : "bd63d3153a2906c4c3f7e3d48685d0a1"
+    }, {
+      "name" : "test_courseModules",
+      "children" : [ {
+        "name" : "Test_courseModules",
+        "children" : [ {
+          "name" : "test_courseModules",
+          "uid" : "47f46750703499a4",
+          "parentUid" : "1fa237cbd0e92ea743a43b0677209d11",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545066,
+            "stop" : 1586759545133,
+            "duration" : 67
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1fa237cbd0e92ea743a43b0677209d11"
+      } ],
+      "uid" : "aa7409637839ca53bc8805575a4d5619"
+    }, {
+      "name" : "test_courseRole",
+      "children" : [ {
+        "name" : "Test_courseRole",
+        "children" : [ {
+          "name" : "test_courseRole",
+          "uid" : "dc9b1b173c20f9b8",
+          "parentUid" : "32ee70557e4c34e05709f58fcbf7bf0d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545144,
+            "stop" : 1586759545215,
+            "duration" : 71
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "32ee70557e4c34e05709f58fcbf7bf0d"
+      } ],
+      "uid" : "76602c944be0bd32fb1bd036f17389a2"
+    }, {
+      "name" : "test_course_trends",
+      "children" : [ {
+        "name" : "Test_course_trends",
+        "children" : [ {
+          "name" : "test_trends",
+          "uid" : "256b323c9272fb19",
+          "parentUid" : "c4dae66d72cb02f399ffff3f6aa4bd3d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545227,
+            "stop" : 1586759545307,
+            "duration" : 80
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c4dae66d72cb02f399ffff3f6aa4bd3d"
+      } ],
+      "uid" : "0374912737f1402a3a2e773ac6e829ab"
+    }, {
+      "name" : "test_courses_list",
+      "children" : [ {
+        "name" : "Test_courseList",
+        "children" : [ {
+          "name" : "test_courseList",
+          "uid" : "2d65acfbf95c6b65",
+          "parentUid" : "f50599b5734c299423df65685fff54c2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545310,
+            "stop" : 1586759545365,
+            "duration" : 55
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f50599b5734c299423df65685fff54c2"
+      } ],
+      "uid" : "c04a0f4cce7680b11dd30ce3414c0500"
+    }, {
+      "name" : "test_lesson",
+      "children" : [ {
+        "name" : "Test_lesson",
+        "children" : [ {
+          "name" : "test_lesson",
+          "uid" : "148285c707768eed",
+          "parentUid" : "8b96437f01b8135f956520c2da00e619",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545369,
+            "stop" : 1586759545434,
+            "duration" : 65
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8b96437f01b8135f956520c2da00e619"
+      } ],
+      "uid" : "db2b6a06a8ef51a909202e572954bf92"
+    }, {
+      "name" : "test_post_judge",
+      "children" : [ {
+        "name" : "Test_judge",
+        "children" : [ {
+          "name" : "test_judge",
+          "uid" : "56556f2b688fd89e",
+          "parentUid" : "775f1cb019f5b182eee9f75c547edf7f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545440,
+            "stop" : 1586759545544,
+            "duration" : 104
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "775f1cb019f5b182eee9f75c547edf7f"
+      } ],
+      "uid" : "a5dfb31c5075a3f59441878847c57f15"
+    }, {
+      "name" : "test_post_recordStudyTime",
+      "children" : [ {
+        "name" : "Test_studyTime",
+        "children" : [ {
+          "name" : "test_studyTime",
+          "uid" : "3f650bb9f8666f42",
+          "parentUid" : "8f43bca256bb21aa268b94da1a6e1e18",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545549,
+            "stop" : 1586759545615,
+            "duration" : 66
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8f43bca256bb21aa268b94da1a6e1e18"
+      } ],
+      "uid" : "4abf9f8a24127d25010be1bfd41d7bb1"
+    }, {
+      "name" : "test_post_run",
+      "children" : [ {
+        "name" : "Test_run",
+        "children" : [ {
+          "name" : "test_run",
+          "uid" : "a03a509292e0f393",
+          "parentUid" : "354485d875ef449c012f490db8b227a4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759545621,
+            "stop" : 1586759547438,
+            "duration" : 1817
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "354485d875ef449c012f490db8b227a4"
+      } ],
+      "uid" : "bf7430ad71337abda5f1624da78146c9"
+    }, {
+      "name" : "test_recentLesson",
+      "children" : [ {
+        "name" : "Test_recentLesson",
+        "children" : [ {
+          "name" : "test_recentLesson",
+          "uid" : "f61dccddf70a11f6",
+          "parentUid" : "5a40b22ae7d0a6e017d2621cfb9350f8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586759547448,
+            "stop" : 1586759548641,
+            "duration" : 1193
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5a40b22ae7d0a6e017d2621cfb9350f8"
+      } ],
+      "uid" : "3c8cfba11169a0047a1f60bc5c4cb455"
+    } ],
+    "uid" : "704144b2507f56a5a6cd6f62333a1930"
+  } ]
+}
